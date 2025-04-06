@@ -1,6 +1,8 @@
 # Vulnerable-Binaries
 Repository for Vulnerable Binaries
 
+<!-- display-subdirectories: false -->
+
 ### Split/Combine binary
 ```console
 # To split a binary
